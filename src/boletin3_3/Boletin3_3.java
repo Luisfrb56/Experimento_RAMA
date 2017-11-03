@@ -15,6 +15,7 @@ public class Boletin3_3 {
         numero2.calcularLonxiturde();
         System.out.println(numero2.calcularArea());
         System.out.println(numero2.calcularLonxiturde());
+        //commit
     }
     
 }
